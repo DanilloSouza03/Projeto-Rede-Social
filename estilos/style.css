@@ -9,11 +9,11 @@
 html, body {
     height: 100vh;
     width: 100vw;
-    background-color: #000000;
+    background-color: #dc5935cf;
 }
 
 body {
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imagens/fundo-tela.jpg) no-repeat top center;
     background-size: cover;
 }
 
